@@ -1,0 +1,369 @@
+﻿<?xml version="1.0" standalone="yes"?>
+<?mso-application progid="Word.Document"?>
+<pkg:package xmlns:pkg="http://schemas.microsoft.com/office/2006/xmlPackage">
+  <pkg:part pkg:name="/_rels/.rels" pkg:contentType="application/vnd.openxmlformats-package.relationships+xml" pkg:padding="512">
+    <pkg:xmlData>
+      <Relationships xmlns="http://schemas.openxmlformats.org/package/2006/relationships">
+        <Relationship Id="rId1" Type="http://schemas.openxmlformats.org/officeDocument/2006/relationships/officeDocument" Target="word/document.xml"/>
+      </Relationships>
+    </pkg:xmlData>
+  </pkg:part>
+  <pkg:part pkg:name="/word/diagrams/data1.xml" pkg:contentType="application/vnd.openxmlformats-officedocument.drawingml.diagramData+xml">
+    <pkg:xmlData>
+      <dgm:dataModel xmlns:dgm="http://schemas.openxmlformats.org/drawingml/2006/diagram" xmlns:a="http://schemas.openxmlformats.org/drawingml/2006/main">
+        <dgm:ptLst>
+          <dgm:pt modelId="0" type="doc">
+            <dgm:prSet loTypeId="urn:microsoft.com/office/officeart/2005/8/layout/hierarchy2#2" loCatId="hierarchy" qsTypeId="urn:microsoft.com/office/officeart/2005/8/quickstyle/simple1" qsCatId="simple" csTypeId="urn:microsoft.com/office/officeart/2005/8/colors/accent1_2" csCatId="accent1" phldr="0"/>
+            <dgm:spPr/>
+            <dgm:t>
+              <a:bodyPr/>
+              <a:lstStyle/>
+              <a:p>
+                <a:endParaRPr lang="zh-CN" altLang="en-US"/>
+              </a:p>
+            </dgm:t>
+          </dgm:pt>
+          {{nodes}}
+        </dgm:ptLst>
+        <dgm:cxnLst>
+          {{connections}}
+        </dgm:cxnLst>
+        <dgm:bg/>
+        <dgm:whole/>
+        <dgm:extLst>
+          <a:ext uri="http://schemas.microsoft.com/office/drawing/2008/diagram">
+            <dsp:dataModelExt relId="rId8" minVer="http://schemas.openxmlformats.org/drawingml/2006/diagram" xmlns:dsp="http://schemas.microsoft.com/office/drawing/2008/diagram"/>
+          </a:ext>
+        </dgm:extLst>
+      </dgm:dataModel>
+    </pkg:xmlData>
+  </pkg:part>
+  <pkg:part pkg:name="/word/_rels/document.xml.rels" pkg:contentType="application/vnd.openxmlformats-package.relationships+xml" pkg:padding="256">
+    <pkg:xmlData>
+      <Relationships xmlns="http://schemas.openxmlformats.org/package/2006/relationships">
+        <Relationship Id="rId5" Type="http://schemas.openxmlformats.org/officeDocument/2006/relationships/diagramLayout" Target="diagrams/layout1.xml"/>
+        <Relationship Id="rId4" Type="http://schemas.openxmlformats.org/officeDocument/2006/relationships/diagramData" Target="diagrams/data1.xml"/>
+      </Relationships>
+    </pkg:xmlData>
+  </pkg:part>
+  <pkg:part pkg:name="/word/document.xml" pkg:contentType="application/vnd.openxmlformats-officedocument.wordprocessingml.document.main+xml">
+    <pkg:xmlData>
+      <w:document mc:Ignorable="w14 w15 wp14" xmlns:wpc="http://schemas.microsoft.com/office/word/2010/wordprocessingCanvas" xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:r="http://schemas.openxmlformats.org/officeDocument/2006/relationships" xmlns:m="http://schemas.openxmlformats.org/officeDocument/2006/math" xmlns:v="urn:schemas-microsoft-com:vml" xmlns:wp14="http://schemas.microsoft.com/office/word/2010/wordprocessingDrawing" xmlns:wp="http://schemas.openxmlformats.org/drawingml/2006/wordprocessingDrawing" xmlns:w10="urn:schemas-microsoft-com:office:word" xmlns:w="http://schemas.openxmlformats.org/wordprocessingml/2006/main" xmlns:w14="http://schemas.microsoft.com/office/word/2010/wordml" xmlns:w15="http://schemas.microsoft.com/office/word/2012/wordml" xmlns:wpg="http://schemas.microsoft.com/office/word/2010/wordprocessingGroup" xmlns:wpi="http://schemas.microsoft.com/office/word/2010/wordprocessingInk" xmlns:wne="http://schemas.microsoft.com/office/word/2006/wordml" xmlns:wps="http://schemas.microsoft.com/office/word/2010/wordprocessingShape">
+        <w:body>
+          <w:p w:rsidR="000D62D5" w:rsidRPr="00DB7FCE" w:rsidRDefault="000D62D5" w:rsidP="000D62D5">
+            <w:r>
+              <w:rPr>
+                <w:noProof/>
+              </w:rPr>
+              <w:drawing>
+                <wp:inline distT="0" distB="0" distL="0" distR="0" wp14:anchorId="463EB72E" wp14:editId="6F064191">
+                  <wp:extent cx="5274310" cy="3076575"/>
+                  <wp:effectExtent l="0" t="0" r="21590" b="0"/>
+                  <wp:docPr id="3" name="{{name}}"/>
+                  <wp:cNvGraphicFramePr/>
+                  <a:graphic xmlns:a="http://schemas.openxmlformats.org/drawingml/2006/main">
+                    <a:graphicData uri="http://schemas.openxmlformats.org/drawingml/2006/diagram">
+                      <dgm:relIds r:dm="rId4" r:lo="rId5" xmlns:dgm="http://schemas.openxmlformats.org/drawingml/2006/diagram" xmlns:r="http://schemas.openxmlformats.org/officeDocument/2006/relationships"/>
+                    </a:graphicData>
+                  </a:graphic>
+                </wp:inline>
+              </w:drawing>
+            </w:r>
+          </w:p>
+          <w:p w:rsidR="00000000" w:rsidRDefault="000D62D5"/>
+          <w:sectPr w:rsidR="00000000">
+            <w:pgSz w:w="12240" w:h="15840"/>
+            <w:pgMar w:top="1440" w:right="1800" w:bottom="1440" w:left="1800" w:header="720" w:footer="720" w:gutter="0"/>
+            <w:cols w:space="720"/>
+          </w:sectPr>
+        </w:body>
+      </w:document>
+    </pkg:xmlData>
+  </pkg:part>
+  <pkg:part pkg:name="/word/diagrams/layout1.xml" pkg:contentType="application/vnd.openxmlformats-officedocument.drawingml.diagramLayout+xml">
+    <pkg:xmlData>
+      <dgm:layoutDef uniqueId="urn:microsoft.com/office/officeart/2005/8/layout/hierarchy2#2" xmlns:dgm="http://schemas.openxmlformats.org/drawingml/2006/diagram" xmlns:a="http://schemas.openxmlformats.org/drawingml/2006/main">
+        <dgm:title val=""/>
+        <dgm:desc val=""/>
+        <dgm:catLst>
+          <dgm:cat type="hierarchy" pri="5000"/>
+        </dgm:catLst>
+        <dgm:styleData>
+          <dgm:dataModel>
+            <dgm:ptLst>
+              <dgm:pt modelId="0" type="doc"/>
+              <dgm:pt modelId="1"/>
+              <dgm:pt modelId="11"/>
+              <dgm:pt modelId="12"/>
+            </dgm:ptLst>
+            <dgm:cxnLst>
+              <dgm:cxn modelId="2" srcId="0" destId="1" srcOrd="0" destOrd="0"/>
+              <dgm:cxn modelId="13" srcId="1" destId="11" srcOrd="0" destOrd="0"/>
+              <dgm:cxn modelId="14" srcId="1" destId="12" srcOrd="1" destOrd="0"/>
+            </dgm:cxnLst>
+            <dgm:bg/>
+            <dgm:whole/>
+          </dgm:dataModel>
+        </dgm:styleData>
+        <dgm:clrData>
+          <dgm:dataModel>
+            <dgm:ptLst>
+              <dgm:pt modelId="0" type="doc"/>
+              <dgm:pt modelId="1"/>
+              <dgm:pt modelId="2"/>
+              <dgm:pt modelId="21"/>
+              <dgm:pt modelId="211"/>
+              <dgm:pt modelId="3"/>
+              <dgm:pt modelId="31"/>
+              <dgm:pt modelId="311"/>
+            </dgm:ptLst>
+            <dgm:cxnLst>
+              <dgm:cxn modelId="4" srcId="0" destId="1" srcOrd="0" destOrd="0"/>
+              <dgm:cxn modelId="5" srcId="1" destId="2" srcOrd="0" destOrd="0"/>
+              <dgm:cxn modelId="6" srcId="1" destId="3" srcOrd="1" destOrd="0"/>
+              <dgm:cxn modelId="23" srcId="2" destId="21" srcOrd="0" destOrd="0"/>
+              <dgm:cxn modelId="24" srcId="21" destId="211" srcOrd="0" destOrd="0"/>
+              <dgm:cxn modelId="33" srcId="3" destId="31" srcOrd="0" destOrd="0"/>
+              <dgm:cxn modelId="34" srcId="31" destId="311" srcOrd="0" destOrd="0"/>
+            </dgm:cxnLst>
+            <dgm:bg/>
+            <dgm:whole/>
+          </dgm:dataModel>
+        </dgm:clrData>
+        <dgm:layoutNode name="diagram">
+          <dgm:varLst>
+            <dgm:chPref val="1"/>
+            <dgm:dir/>
+            <dgm:animOne val="branch"/>
+            <dgm:animLvl val="lvl"/>
+            <dgm:resizeHandles val="exact"/>
+          </dgm:varLst>
+          <dgm:choose name="Name0">
+            <dgm:if name="Name1" func="var" arg="dir" op="equ" val="norm">
+              <dgm:alg type="hierChild">
+                <dgm:param type="linDir" val="fromT"/>
+                <dgm:param type="chAlign" val="l"/>
+              </dgm:alg>
+            </dgm:if>
+            <dgm:else name="Name2">
+              <dgm:alg type="hierChild">
+                <dgm:param type="linDir" val="fromT"/>
+                <dgm:param type="chAlign" val="r"/>
+              </dgm:alg>
+            </dgm:else>
+          </dgm:choose>
+          <dgm:shape r:blip="" xmlns:r="http://schemas.openxmlformats.org/officeDocument/2006/relationships">
+            <dgm:adjLst/>
+          </dgm:shape>
+          <dgm:presOf/>
+          <dgm:constrLst>
+            <dgm:constr type="h" for="des" ptType="node" refType="h"/>
+            <dgm:constr type="w" for="des" ptType="node" refType="h" refFor="des" refPtType="node" fact="2"/>
+            <dgm:constr type="sibSp" refType="h" refFor="des" refPtType="node" op="equ" fact="0.15"/>
+            <dgm:constr type="sibSp" for="des" forName="level2hierChild" refType="h" refFor="des" refPtType="node" op="equ" fact="0.15"/>
+            <dgm:constr type="sibSp" for="des" forName="level3hierChild" refType="h" refFor="des" refPtType="node" op="equ" fact="0.15"/>
+            <dgm:constr type="sp" for="des" forName="root1" refType="w" refFor="des" refPtType="node" fact="0.4"/>
+            <dgm:constr type="sp" for="des" forName="root2" refType="sp" refFor="des" refForName="root1" op="equ"/>
+            <dgm:constr type="primFontSz" for="des" ptType="node" op="equ" val="65"/>
+            <dgm:constr type="primFontSz" for="des" forName="connTx" op="equ" val="55"/>
+            <dgm:constr type="primFontSz" for="des" forName="connTx" refType="primFontSz" refFor="des" refPtType="node" op="lte" fact="0.8"/>
+          </dgm:constrLst>
+          <dgm:ruleLst/>
+          <dgm:forEach name="Name3" axis="ch">
+            <dgm:forEach name="Name4" axis="self" ptType="node">
+              <dgm:layoutNode name="root1">
+                <dgm:choose name="Name5">
+                  <dgm:if name="Name6" func="var" arg="dir" op="equ" val="norm">
+                    <dgm:alg type="hierRoot">
+                      <dgm:param type="hierAlign" val="lCtrCh"/>
+                    </dgm:alg>
+                  </dgm:if>
+                  <dgm:else name="Name7">
+                    <dgm:alg type="hierRoot">
+                      <dgm:param type="hierAlign" val="rCtrCh"/>
+                    </dgm:alg>
+                  </dgm:else>
+                </dgm:choose>
+                <dgm:shape r:blip="" xmlns:r="http://schemas.openxmlformats.org/officeDocument/2006/relationships">
+                  <dgm:adjLst/>
+                </dgm:shape>
+                <dgm:presOf/>
+                <dgm:constrLst/>
+                <dgm:ruleLst/>
+                <dgm:layoutNode name="LevelOneTextNode" styleLbl="node0">
+                  <dgm:varLst>
+                    <dgm:chPref val="3"/>
+                  </dgm:varLst>
+                  <dgm:alg type="tx"/>
+                  <dgm:shape type="roundRect" r:blip="" xmlns:r="http://schemas.openxmlformats.org/officeDocument/2006/relationships">
+                    <dgm:adjLst>
+                      <dgm:adj idx="1" val="0.1"/>
+                    </dgm:adjLst>
+                  </dgm:shape>
+                  <dgm:presOf axis="self"/>
+                  <dgm:constrLst>
+                    <dgm:constr type="tMarg" refType="primFontSz" fact="0.05"/>
+                    <dgm:constr type="bMarg" refType="primFontSz" fact="0.05"/>
+                    <dgm:constr type="lMarg" refType="primFontSz" fact="0.05"/>
+                    <dgm:constr type="rMarg" refType="primFontSz" fact="0.05"/>
+                  </dgm:constrLst>
+                  <dgm:ruleLst>
+                    <dgm:rule type="primFontSz" val="5" fact="NaN" max="NaN"/>
+                  </dgm:ruleLst>
+                </dgm:layoutNode>
+                <dgm:layoutNode name="level2hierChild">
+                  <dgm:choose name="Name8">
+                    <dgm:if name="Name9" func="var" arg="dir" op="equ" val="norm">
+                      <dgm:alg type="hierChild">
+                        <dgm:param type="linDir" val="fromT"/>
+                        <dgm:param type="chAlign" val="l"/>
+                      </dgm:alg>
+                    </dgm:if>
+                    <dgm:else name="Name10">
+                      <dgm:alg type="hierChild">
+                        <dgm:param type="linDir" val="fromT"/>
+                        <dgm:param type="chAlign" val="r"/>
+                      </dgm:alg>
+                    </dgm:else>
+                  </dgm:choose>
+                  <dgm:shape r:blip="" xmlns:r="http://schemas.openxmlformats.org/officeDocument/2006/relationships">
+                    <dgm:adjLst/>
+                  </dgm:shape>
+                  <dgm:presOf/>
+                  <dgm:constrLst/>
+                  <dgm:ruleLst/>
+                  <dgm:forEach name="repeat" axis="ch">
+                    <dgm:forEach name="Name11" axis="self" ptType="parTrans" cnt="1">
+                      <dgm:layoutNode name="conn2-1">
+                        <dgm:choose name="Name12">
+                          <dgm:if name="Name13" func="var" arg="dir" op="equ" val="norm">
+                            <dgm:alg type="conn">
+                              <dgm:param type="dim" val="1D"/>
+                              <dgm:param type="begPts" val="midR"/>
+                              <dgm:param type="endPts" val="midL"/>
+                              <dgm:param type="endSty" val="noArr"/>
+                            </dgm:alg>
+                          </dgm:if>
+                          <dgm:else name="Name14">
+                            <dgm:alg type="conn">
+                              <dgm:param type="dim" val="1D"/>
+                              <dgm:param type="begPts" val="midL"/>
+                              <dgm:param type="endPts" val="midR"/>
+                              <dgm:param type="endSty" val="noArr"/>
+                            </dgm:alg>
+                          </dgm:else>
+                        </dgm:choose>
+                        <dgm:shape type="conn" r:blip="" xmlns:r="http://schemas.openxmlformats.org/officeDocument/2006/relationships">
+                          <dgm:adjLst/>
+                        </dgm:shape>
+                        <dgm:presOf axis="self"/>
+                        <dgm:constrLst>
+                          <dgm:constr type="w" val="1"/>
+                          <dgm:constr type="h" val="5"/>
+                          <dgm:constr type="connDist"/>
+                          <dgm:constr type="begPad"/>
+                          <dgm:constr type="endPad"/>
+                          <dgm:constr type="userA" for="ch" refType="connDist"/>
+                        </dgm:constrLst>
+                        <dgm:ruleLst/>
+                        <dgm:layoutNode name="connTx">
+                          <dgm:alg type="tx">
+                            <dgm:param type="autoTxRot" val="grav"/>
+                          </dgm:alg>
+                          <dgm:shape type="rect" r:blip="" hideGeom="1" xmlns:r="http://schemas.openxmlformats.org/officeDocument/2006/relationships">
+                            <dgm:adjLst/>
+                          </dgm:shape>
+                          <dgm:presOf axis="self"/>
+                          <dgm:constrLst>
+                            <dgm:constr type="userA"/>
+                            <dgm:constr type="w" refType="userA" fact="0.05"/>
+                            <dgm:constr type="h" refType="userA" fact="0.05"/>
+                            <dgm:constr type="lMarg" val="1"/>
+                            <dgm:constr type="rMarg" val="1"/>
+                            <dgm:constr type="tMarg"/>
+                            <dgm:constr type="bMarg"/>
+                          </dgm:constrLst>
+                          <dgm:ruleLst>
+                            <dgm:rule type="h" val="NaN" fact="0.25" max="NaN"/>
+                            <dgm:rule type="w" val="NaN" fact="0.8" max="NaN"/>
+                            <dgm:rule type="primFontSz" val="5" fact="NaN" max="NaN"/>
+                          </dgm:ruleLst>
+                        </dgm:layoutNode>
+                      </dgm:layoutNode>
+                    </dgm:forEach>
+                    <dgm:forEach name="Name15" axis="self" ptType="node">
+                      <dgm:layoutNode name="root2">
+                        <dgm:choose name="Name16">
+                          <dgm:if name="Name17" func="var" arg="dir" op="equ" val="norm">
+                            <dgm:alg type="hierRoot">
+                              <dgm:param type="hierAlign" val="lCtrCh"/>
+                            </dgm:alg>
+                          </dgm:if>
+                          <dgm:else name="Name18">
+                            <dgm:alg type="hierRoot">
+                              <dgm:param type="hierAlign" val="rCtrCh"/>
+                            </dgm:alg>
+                          </dgm:else>
+                        </dgm:choose>
+                        <dgm:shape r:blip="" xmlns:r="http://schemas.openxmlformats.org/officeDocument/2006/relationships">
+                          <dgm:adjLst/>
+                        </dgm:shape>
+                        <dgm:presOf/>
+                        <dgm:constrLst/>
+                        <dgm:ruleLst/>
+                        <dgm:layoutNode name="LevelTwoTextNode">
+                          <dgm:varLst>
+                            <dgm:chPref val="3"/>
+                          </dgm:varLst>
+                          <dgm:alg type="tx"/>
+                          <dgm:shape type="roundRect" r:blip="" xmlns:r="http://schemas.openxmlformats.org/officeDocument/2006/relationships">
+                            <dgm:adjLst>
+                              <dgm:adj idx="1" val="0.1"/>
+                            </dgm:adjLst>
+                          </dgm:shape>
+                          <dgm:presOf axis="self"/>
+                          <dgm:constrLst>
+                            <dgm:constr type="tMarg" refType="primFontSz" fact="0.05"/>
+                            <dgm:constr type="bMarg" refType="primFontSz" fact="0.05"/>
+                            <dgm:constr type="lMarg" refType="primFontSz" fact="0.05"/>
+                            <dgm:constr type="rMarg" refType="primFontSz" fact="0.05"/>
+                          </dgm:constrLst>
+                          <dgm:ruleLst>
+                            <dgm:rule type="primFontSz" val="5" fact="NaN" max="NaN"/>
+                          </dgm:ruleLst>
+                        </dgm:layoutNode>
+                        <dgm:layoutNode name="level3hierChild">
+                          <dgm:choose name="Name19">
+                            <dgm:if name="Name20" func="var" arg="dir" op="equ" val="norm">
+                              <dgm:alg type="hierChild">
+                                <dgm:param type="linDir" val="fromT"/>
+                                <dgm:param type="chAlign" val="l"/>
+                              </dgm:alg>
+                            </dgm:if>
+                            <dgm:else name="Name21">
+                              <dgm:alg type="hierChild">
+                                <dgm:param type="linDir" val="fromT"/>
+                                <dgm:param type="chAlign" val="r"/>
+                              </dgm:alg>
+                            </dgm:else>
+                          </dgm:choose>
+                          <dgm:shape r:blip="" xmlns:r="http://schemas.openxmlformats.org/officeDocument/2006/relationships">
+                            <dgm:adjLst/>
+                          </dgm:shape>
+                          <dgm:presOf/>
+                          <dgm:constrLst/>
+                          <dgm:ruleLst/>
+                          <dgm:forEach name="Name22" ref="repeat"/>
+                        </dgm:layoutNode>
+                      </dgm:layoutNode>
+                    </dgm:forEach>
+                  </dgm:forEach>
+                </dgm:layoutNode>
+              </dgm:layoutNode>
+            </dgm:forEach>
+          </dgm:forEach>
+        </dgm:layoutNode>
+      </dgm:layoutDef>
+    </pkg:xmlData>
+  </pkg:part>
+</pkg:package>

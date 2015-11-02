@@ -1,0 +1,15 @@
+﻿<dgm:pt modelId="{{id}}">
+  <dgm:prSet/>
+  <dgm:spPr/>
+  <dgm:t>
+    <a:bodyPr/>
+    <a:lstStyle/>
+    <a:p>
+      <a:r>
+        <a:rPr lang="en-US" altLang="zh-CN"/>
+        <a:t>{{text}}</a:t>
+      </a:r>
+      <a:endParaRPr lang="zh-CN" altLang="en-US"/>
+    </a:p>
+  </dgm:t>
+</dgm:pt>
