@@ -6,7 +6,7 @@
 
 2.Click 'Get Selected Content and Convert'
 
-3.XML content should be filled in textbox. If not or and an error message shows up, please contact me
+3.XML content should be filled in textbox. If not or and an error message shows up, please create an [Issue](https://github.com/springga/Office_Addin_Text2Chart/issues/new)
 
 4.Move the cursor to the place you want to insert the chart
 
