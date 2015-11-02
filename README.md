@@ -14,7 +14,7 @@
 <br/><br/><br/>
 
 ###Technical Guide
-<br/>
+
 1.Get/Set document content by getSelectedDataAsync/setSelectedDataAsync
 
 2.Parse DOM and get text content of a node by 'textContent' property which is not a standard DOM feature.
@@ -30,4 +30,4 @@
 
 ###Good Reference:
 
-[JavaScript API for Office全景](http://zoom.it/Dhc#full)
+[JavaScript API for Office 结构图](http://zoom.it/Dhc#full)
